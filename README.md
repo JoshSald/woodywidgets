@@ -2,6 +2,8 @@
 
 This project is a deep dive into PHP. Most of the focus went into the back-end as opposed to the HTML and CSS, hence the basic visual appearance. The website comes with a custom CMS to make it easy for any user to edit the content of the website. All the content is stored and pulled directly from the database rather than being hardcoded into the HTML.
 
+View it [live](https://woodywidgets.000webhostapp.com/)
+
 ### Tools
 
 - HTML
